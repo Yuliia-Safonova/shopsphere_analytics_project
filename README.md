@@ -73,8 +73,8 @@ shopsphere_analytics_project/
 │
 ├── visualisierungen/              ← Screenshots der Tableau-Grafiken
 │
-└── dashboard/
-    └── README.md                  ← Link zum Tableau-Dashboard + Beschreibung der Komposition
+└── tableau/
+    └── README_tableau.md                  ← Link zum Tableau-Dashboard + Beschreibung der Komposition
 ```
 
 ---
