@@ -34,7 +34,7 @@ Eine vollständige Beschreibung aller Tabellen und Spalten befindet sich in [`au
 
 ---
 
-## 🧭 Projektstruktur
+## 🗂️ Projektstruktur
 
 Das Projekt gliedert sich in 5 Blöcke:
 
@@ -79,11 +79,11 @@ shopsphere_analytics_project/
 
 ---
 
-## 🛠️ Verwendete Tools
+## 🗂️ Verwendete Tools
 
 - **SQL** (sqliteonline.com) – Datenextraktion, JOINs, Aggregationen, Subqueries
 - **Tableau Public** – Visualisierungen und interaktives Dashboard
-- **Python / Jupyter Notebook** *(optional)* – vertiefende statistische Analyse
+- **Python / Jupyter Notebook** – vertiefende statistische Analyse
 - **Markdown** – Dokumentation und Ergebnisberichte
 
 ---
