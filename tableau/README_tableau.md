@@ -1,6 +1,8 @@
 # 📊 Tableau-Visualisierungen & Dashboard – ShopSphere Analytics
 
-**Link zum Tableau Public Profil:** [public.tableau.com/app/profile/yuliia.safonova](https://public.tableau.com/app/profile/yuliia.safonova)
+## 🔗 Live-Dashboard & Story
+
+**🔗 [ShopSphere CEO Story auf Tableau Public ansehen](https://public.tableau.com/views/ShopSphere_Analyse/CEO_Story?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ---
 
