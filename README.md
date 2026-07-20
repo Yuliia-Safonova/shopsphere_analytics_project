@@ -63,7 +63,8 @@ shopsphere_analytics_project/
 │
 ├── sql/
 │   ├── abfragen.sql               ← SQL-Abfragen aus Block 1 sowie Zusatzabfrage aus Block 2 (Aufgabe 2.6), kommentiert
-│   └── abfragen_block4.sql        ← SQL-Abfragen aus Block 4 (Fragen 4, 8, 9) inkl. unabhängiger Verifikationsabfrage
+│   ├── abfragen_block4.sql        ← SQL-Abfragen aus Block 4 (Fragen 4, 8, 9) inkl. unabhängiger Verifikationsabfrage
+│   └── abfragen_block5.sql        ← SQL-Abfragen aus Block 5 (Fragen 10, 11)
 │
 ├── notebooks/                     ← optionale .ipynb-Dateien (z. B. für Block 5)
 │
@@ -98,7 +99,7 @@ shopsphere_analytics_project/
 | Block 2 – Visualisierungen in Tableau | ✅ abgeschlossen (6 Charts, siehe `visualisierungen/README_visual.md`) |
 | Block 3 – Interaktive Dashboards + Story für die CEO | ✅ abgeschlossen (2 Dashboards + Story `CEO_Story`, siehe `tableau/README_tableau.md`) |
 | Block 4 – Strategische Geschäftsfälle | ✅ abgeschlossen (siehe `bericht/block_4_geschaeftsfaelle.md`) |
-| Block 5 – A/B-Experiment | ⏳ ausstehend |
+| Block 5 – A/B-Experiment | ✅ abgeschlossen (siehe `bericht/block_5_ab_test.md`) |
 
 ## 📊 Ergebnisse
 
