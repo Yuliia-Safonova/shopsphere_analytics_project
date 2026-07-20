@@ -2,8 +2,8 @@
 
 Statische Screenshots aller Tableau-Visualisierungen aus Block 2, der
 Dashboards aus Block 3 und der zusätzlichen Visualisierungen aus
-Block 4. Dient als Offline-Referenz zusätzlich zum Live-Workbook auf
-Tableau Public (siehe `tableau/README_tableau.md`).
+Block 4 und Block 5. Dient als Offline-Referenz zusätzlich zum
+Live-Workbook auf Tableau Public (siehe `tableau/README_tableau.md`).
 
 ---
 
@@ -36,6 +36,15 @@ Tableau Public (siehe `tableau/README_tableau.md`).
 |---|---|---|
 | `4.4_roi_vs_ltv.png` | Frage 3–4: Marketing-Effizienz | ROI vs. Kundenlebenswert je Kanal – Influencer und Referral liefern die wertvollsten Kunden trotz mittlerem ROI |
 | `4.8_rabattverhalten.png` | Frage 8: Rabattverhalten | Rabatt-Käufer bestellen nur halb so oft wie übrige Kunden |
+
+---
+
+## Block 5 – A/B-Experiment
+
+| Datei | Frage(n) | Kernaussage |
+|---|---|---|
+| `5.10_ab_test_gesamt.png` | Frage 10: Erster Blick | Variante B wirkt auf den ersten Blick leicht besser (+2%) |
+| `5.11_ab_test_segmentiert.png` | Frage 11–12: Segmentierung nach Kundentyp | Variante B wirkt fast ausschließlich bei Neukunden (+19%) – bei Bestandskunden kaum Effekt (+0,9%) |
 
 ---
 
