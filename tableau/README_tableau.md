@@ -44,6 +44,17 @@ Ergänzende Charts zur Unterstützung der Antworten in `bericht/block_4_geschaef
 
 ---
 
+## Block 5 – A/B-Experiment (Statistisches Denken)
+
+Ergänzende Charts zur Unterstützung der Antworten in `bericht/block_5_ab_test.md`. Datengrundlage: SQL-Abfragen aus `sql/abfragen_block5.sql`.
+
+| # | Chart | Sheet-Name | Kernaussage |
+|---|---|---|---|
+| 5.10 | A/B-Test: Erster Blick | `AB_Test_Gesamt` | Variante B wirkt auf den ersten Blick leicht besser (+2%) |
+| 5.11 | A/B-Test nach Kundentyp | `AB_Test_Segmentiert` | Variante B wirkt fast ausschließlich bei Neukunden (+19%) – bei Bestandskunden kaum Effekt (+0,9%) |
+
+---
+
 ## Story: `CEO_Story`
 
 Zusammenhängende Präsentation für die Geschäftsführung mit 5 Seiten:
@@ -52,7 +63,8 @@ Zusammenhängende Präsentation für die Geschäftsführung mit 5 Seiten:
 2. **Geschäftsüberblick** – Dashboard 1
 3. **Kundenwert** – Dashboard 2
 4. **Versandschwelle** – Kreativaufgabe 2.6 mit verhaltensökonomischer Interpretation
-5. **Fazit & Empfehlungen** – 5 zentrale Erkenntnisse mit Handlungsempfehlungen (siehe unten, Erweiterung um Block 4 empfohlen)
+5. **Fazit & Empfehlungen** – zentrale Erkenntnisse mit Handlungsempfehlungen (Erweiterung um Block 4 & 5 empfohlen)
+6. **A/B-Test** *(geplant)* – Checkout-Redesign, Ergebnisse aus Block 5
 
 ---
 
