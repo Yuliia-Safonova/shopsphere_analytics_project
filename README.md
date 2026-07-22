@@ -52,7 +52,7 @@ Das Projekt gliedert sich in 5 Blöcke:
 shopsphere_analytics_project/
 │
 ├── bericht/
-│   └── bericht.md                 ← Antworten auf alle 13 Fragen (Block 3–5) + 5 Handlungsempfehlungen für die CEO
+│   └── bericht.md                 ← Antworten auf alle 13 Fragen (Block 3–5) + 7 Handlungsempfehlungen für die CEO
 │
 ├── daten/
 │   ├── er_diagramm.png            ← Entity-Relationship-Diagramm aller 5 Tabellen
@@ -64,7 +64,7 @@ shopsphere_analytics_project/
 │
 ├── sql/
 │   ├── ergebnisse/                ← Screenshots der SQL-Abfrageergebnisse (sqliteonline.com)
-│   └── abfragen.sql               ← alle SQL-Abfragen (Block 1, 2.6, 4, 5), gegliedert nach Block, kommentiert
+│   └── abfragen.sql               ← alle SQL-Abfragen (Block 1, 2.5, 2.6, 4, 5), gegliedert nach Block, kommentiert
 │
 ├── tableau/
 │   ├── visualisierungen/          ← Screenshots aller Tableau-Grafiken, Dashboards & Charts
@@ -80,7 +80,7 @@ shopsphere_analytics_project/
 
 - **SQL** (sqliteonline.com) – Datenextraktion, JOINs, Aggregationen, Subqueries
 - **Tableau Public** – Visualisierungen, interaktive Dashboards und Story
-- **Graphviz** – Entity-Relationship-Diagramm
+- **Lucidchart** – Entity-Relationship-Diagramm
 - **Markdown** – Dokumentation und Ergebnisberichte
 
 ---
@@ -91,7 +91,7 @@ shopsphere_analytics_project/
 |---|---|
 | Block 1 – SQL: Datenaufbereitung | ✅ abgeschlossen |
 | Block 2 – Visualisierungen in Tableau | ✅ abgeschlossen (6 Charts, siehe `tableau/README_tableau.md`) |
-| Block 3 – Interaktive Dashboards + Story für die CEO | ✅ abgeschlossen (2 Dashboards + Story `CEO_Story`, Antworten siehe `bericht/bericht.md`) |
+| Block 3 – Interaktive Dashboards + Story für die CEO | ✅ abgeschlossen (3 Dashboards + Story `CEO_Story`, Antworten siehe `bericht/bericht.md`) |
 | Block 4 – Strategische Geschäftsfälle | ✅ abgeschlossen (siehe `bericht/bericht.md`) |
 | Block 5 – A/B-Experiment | ✅ abgeschlossen (siehe `bericht/bericht.md`) |
 
@@ -99,13 +99,14 @@ shopsphere_analytics_project/
 
 Die vollständige Analyse liefert datengestützte Antworten auf alle Ausgangsfragen der Geschäftsführung:
 
-- **Marketing-Effizienz:** Organic (ROI 8,02) und Email (ROI 6,50) sind die effizientesten Kanäle, erhalten aber nur einen Bruchteil des Budgets – 73% fließen in die ineffizientesten Kanäle Paid Search und Social Ads.
-- **Wertvollste Kunden:** Die Top 5% der Kunden (150 von 3.000) erwirtschaften 35% des Gesamtumsatzes, konzentriert in Europe, North America und Southeast Asia sowie über die Kanäle Influencer und Organic.
+- **Marketing-Effizienz:** Organic (ROI 8,02) und Email (ROI 6,50) sind die effizientesten Kanäle, erhalten aber nur einen Bruchteil des Budgets – 73% fließen in die ineffizientesten Kanäle Paid Search und Social Ads. Die Rangfolge bleibt auch nach Bereinigung um Retouren unverändert.
+- **Wertvollste Kunden:** Die Top 5% der Kunden (150 von 3.000) erwirtschaften 35,07% des Gesamtumsatzes, konzentriert in Europe, North America und Southeast Asia sowie über die Kanäle Influencer und Organic.
 - **Kategorien-Profitabilität:** Electronics dominiert den Umsatz, aber mit der niedrigsten Marge (12%) und höchsten Retourenquote (15,62%). Beauty ist der „versteckte Diamant" mit der höchsten Marge (55%).
 - **Rabattverhalten:** Rabattgetriebene Kunden binden sich nicht – sie bestellen nur halb so oft wie übrige Kunden.
+- **Versandschwelle:** Kunden passen ihr Kaufverhalten gezielt an, um die $50-Schwelle für kostenlosen Versand zu erreichen – die Bestellhäufigkeit steigt an dieser Schwelle um 117%.
 - **A/B-Test (Checkout-Redesign):** Das neue Design zeigt im Gesamtdurchschnitt nur +2%, entfaltet aber bei Neukunden einen starken Effekt von +19% (Simpson-Paradoxon) – eine gezielte statt pauschale Einführung wird empfohlen.
 
-Alle Antworten und die 5 zentralen Handlungsempfehlungen für die CEO: [`bericht/bericht.md`](./bericht/bericht.md).
+Alle Antworten und die 7 zentralen Handlungsempfehlungen für die CEO: [`bericht/bericht.md`](./bericht/bericht.md).
 
 Interaktives Tableau-Workbook mit allen Charts, Dashboards und der CEO-Story: [ShopSphere_Analyse auf Tableau Public](https://public.tableau.com/views/ShopSphere_Analyse/CEO_Story).
 
