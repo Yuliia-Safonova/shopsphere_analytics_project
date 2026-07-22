@@ -81,6 +81,19 @@ Nein, die Erkenntnisse stimmen nicht vollständig überein. Organic und Email si
 **Empfehlung:**
 Budgetentscheidungen sollten den LTV genauso stark gewichten wie den kurzfristigen ROI, da beide Kennzahlen unterschiedliche, sich ergänzende Aspekte der Kanaleffizienz abbilden.
 
+> ⚠️ **Methodischer Hinweis – zwei LTV-Berechnungen im Projekt:** Der oben ausgewiesene LTV (Sheet `ROI vs. LTV`) wird aus **allen** Bestellungen berechnet, inklusive retournierter. Zur Kontrolle wurde zusätzlich eine bereinigte Version berechnet (Sheet `LTV_bereinigt`), die ausschließlich Bestellungen mit `is_returned = 0` berücksichtigt. Dabei ändert sich nicht nur die Summe, sondern auch die Kundenbasis: Kunden, deren sämtliche Bestellungen retourniert wurden, fallen aus der bereinigten Berechnung vollständig heraus (z. B. Paid Search: 665 → 637 Kunden). Die **Rangfolge der Kanäle bleibt in beiden Versionen identisch** – das bereinigte Bild bestätigt also die ursprüngliche Schlussfolgerung, verschiebt aber die absoluten Beträge nach unten:
+>
+> | Kanal | LTV inkl. Retouren | LTV ohne Retouren |
+> |---|---|---|
+> | Influencer | $1,985.73 | $1,770.20 |
+> | Referral | $1,791.82 | $1,527.50 |
+> | Organic | $1,316.13 | $1,132.40 |
+> | Email | $1,074.46 | $960.80 |
+> | Social Ads | $822.09 | $727.10 |
+> | Paid Search | $648.10 | $595.40 |
+>
+> Alle übrigen LTV-Nennungen in diesem Bericht (u. a. in der Zusammenfassung) beziehen sich auf die ursprüngliche Version **inklusive Retouren**, sofern nicht anders angegeben.
+
 ---
 
 #### Frage 5
@@ -277,6 +290,8 @@ Ein ehrlicher Analyst zeigt beide Ebenen gemeinsam – den Gesamtdurchschnitt un
 
 ## Zusammenfassung – Zentrale Empfehlungen für die CEO
 
+**Kurz gesagt:** Das Unternehmen wächst, verliert aber Effizienz an drei klaren Stellen – im Marketingbudget, in der Kategorien-Strategie und in der Kundenbindung. Die folgenden 7 Empfehlungen beantworten direkt die Ausgangsfragen der Geschäftsführung: wohin das Marketingbudget fließen sollte, wer die wertvollsten Kunden sind, welche Kategorien echte vs. scheinbare Profitabilität liefern, wo das größte Wachstumspotenzial liegt und ob das Checkout-Experiment funktioniert hat.
+
 ### Empfehlung 1: Marketingbudget umschichten – von Paid Search/Social Ads zu Organic/Email
 
 Paid Search und Social Ads vereinen zusammen $737.5K (73% des Gesamtbudgets von $981.4K), liefern aber den niedrigsten ROI (1.33 bzw. 2.06) und den niedrigsten Kundenwert (LTV $648 bzw. $822). Organic (ROI 8.02) und Email (ROI 6.50) sind massiv unterfinanziert im Verhältnis zu ihrer Effizienz. Budget aus den beiden schwächsten Kanälen sollte gezielt zu Organic und Email verschoben werden.
@@ -296,6 +311,14 @@ Rabattgetriebene Kunden (Ø Rabatt > 20%) bestellen nur 2.17-mal im Schnitt – 
 ### Empfehlung 5: Neues Checkout-Design (Variante B) gezielt für Neukunden ausrollen
 
 Der A/B-Test zeigt auf Gesamtebene nur einen leichten Vorteil für Variante B (+2%). Segmentiert nach Kundentyp zeigt sich jedoch ein klares Simpson-Paradoxon: Bei Neukunden steigert B den durchschnittlichen Bestellwert um 19% ($223.30 → $266.21), bei Bestandskunden ist der Effekt praktisch null (+0.9%). Empfehlung: Variante B zunächst gezielt für Neukunden aktivieren statt pauschal für alle.
+
+### Empfehlung 6: Kapazitäts- und Lagerplanung frühzeitig auf das Weihnachtsgeschäft ausrichten
+
+Der Umsatz konzentriert sich stark auf das vierte Quartal, mit einem klaren Höhepunkt im Dezember (Sheet `Sezonalität`). Empfehlung: frühzeitige Kapazitäts- und Lagerplanung für das Jahresendgeschäft, um Lieferengpässe während der umsatzstärksten Wochen des Jahres zu vermeiden.
+
+### Empfehlung 7: Versandschwelle aktiv im Checkout kommunizieren
+
+Kunden passen ihr Kaufverhalten nachweislich an, um die Schwelle für kostenlosen Versand ($50) zu erreichen – die Bestellhäufigkeit steigt direkt an dieser Schwelle deutlich an (Sheet `Versandschwelle`, Aufgabe 2.6). Empfehlung: den Schwellenwert aktiv im Checkout kommunizieren (z. B. „Nur noch $X bis zum kostenlosen Versand!"), um den durchschnittlichen Bestellwert gezielt weiter zu steigern.
 
 ---
 
