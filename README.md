@@ -64,6 +64,9 @@ shopsphere_analytics_project/
 │   ├── shopsphere_orders.csv
 │   └── shopsphere_products.csv
 │
+├── landing-page/
+│   └── index.html                 ← Bilinguale (DE/UA) Projektpräsentation: Kapitel 1 (ShopSphere) & Kapitel 2 (CoffeeTime-Prognose) als eine Geschichte
+│
 ├── sql/
 │   ├── ergebnisse/                ← Screenshots der SQL-Abfrageergebnisse (sqliteonline.com)
 │   └── abfragen.sql               ← alle SQL-Abfragen (Block 1, 2.5, 2.6, 4, 5), gegliedert nach Block, kommentiert
@@ -71,9 +74,6 @@ shopsphere_analytics_project/
 ├── tableau/
 │   ├── visualisierungen/          ← Screenshots aller Tableau-Grafiken, Dashboards & Charts
 │   └── README_tableau.md          ← Link zum Workbook, alle Sheets, Dashboards, Story-Aufbau
-│
-├── landing-page/
-│   └── index.html                 ← Bilinguale (DE/UA) Projektpräsentation: Kapitel 1 (ShopSphere) & Kapitel 2 (CoffeeTime-Prognose) als eine Geschichte
 │
 ├── README.md                      ← diese Datei
 └── aufgabe.md                     ← vollständige Aufgabenstellung
