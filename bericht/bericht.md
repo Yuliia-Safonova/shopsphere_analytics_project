@@ -103,7 +103,7 @@ Budgetentscheidungen sollten den LTV genauso stark gewichten wie den kurzfristig
 Eine Kombination aus ROI- und LTV-Betrachtung liefert eine klare Priorisierung: Budget aus den schwächsten Kanälen (Paid Search, Social Ads) sollte in die stärksten (Organic, Email, Influencer, Referral) umverteilt werden.
 
 **Zahlen:**
-Paid Search und Social Ads vereinen zusammen $737.5K Budget (73% des Gesamtbudgets von $981.4K), liefern aber nur ROI 1.33 bzw. 2.06 und LTV $648 bzw. $822 – die schwächsten Werte auf beiden Dimensionen.
+Paid Search und Social Ads vereinen zusammen $737.5K Budget (75% des Gesamtbudgets von $981.4K), liefern aber nur ROI 1.33 bzw. 2.06 und LTV $648 bzw. $822 – die schwächsten Werte auf beiden Dimensionen.
 
 **Visualisierung:** Sheets `Marketing` und `ROI vs. LTV`
 
@@ -290,11 +290,11 @@ Ein ehrlicher Analyst zeigt beide Ebenen gemeinsam – den Gesamtdurchschnitt un
 
 ## Zusammenfassung – Zentrale Empfehlungen für die CEO
 
-**Kurz gesagt:** Das Unternehmen wächst, verliert aber Effizienz an drei klaren Stellen – im Marketingbudget, in der Kategorien-Strategie und in der Kundenbindung. Die folgenden 7 Empfehlungen beantworten direkt die Ausgangsfragen der Geschäftsführung: wohin das Marketingbudget fließen sollte, wer die wertvollsten Kunden sind, welche Kategorien echte vs. scheinbare Profitabilität liefern, wo das größte Wachstumspotenzial liegt und ob das Checkout-Experiment funktioniert hat.
+**Kurz gesagt:** Das Unternehmen wächst, verliert aber Effizienz an drei klaren Stellen – im Marketingbudget, in der Kategorien-Strategie und in der Kundenbindung. Die folgenden 8 Empfehlungen beantworten direkt die Ausgangsfragen der Geschäftsführung: wohin das Marketingbudget fließen sollte, wer die wertvollsten Kunden sind, welche Kategorien echte vs. scheinbare Profitabilität liefern, wo das größte Wachstumspotenzial liegt und ob das Checkout-Experiment funktioniert hat.
 
 ### Empfehlung 1: Marketingbudget umschichten – von Paid Search/Social Ads zu Organic/Email
 
-Paid Search und Social Ads vereinen zusammen $737.5K (73% des Gesamtbudgets von $981.4K), liefern aber den niedrigsten ROI (1.33 bzw. 2.06) und den niedrigsten Kundenwert (LTV $648 bzw. $822). Organic (ROI 8.02) und Email (ROI 6.50) sind massiv unterfinanziert im Verhältnis zu ihrer Effizienz. Budget aus den beiden schwächsten Kanälen sollte gezielt zu Organic und Email verschoben werden.
+Paid Search und Social Ads vereinen zusammen $737.5K (75% des Gesamtbudgets von $981.4K), liefern aber den niedrigsten ROI (1.33 bzw. 2.06) und den niedrigsten Kundenwert (LTV $648 bzw. $822). Organic (ROI 8.02) und Email (ROI 6.50) sind massiv unterfinanziert im Verhältnis zu ihrer Effizienz. Budget aus den beiden schwächsten Kanälen sollte gezielt zu Organic und Email verschoben werden.
 
 ### Empfehlung 2: Kanalentscheidungen an ROI **und** LTV ausrichten, nicht nur an kurzfristigem ROI
 
@@ -320,6 +320,10 @@ Der Umsatz konzentriert sich stark auf das vierte Quartal, mit einem klaren Höh
 
 Kunden passen ihr Kaufverhalten nachweislich an, um die Schwelle für kostenlosen Versand ($50) zu erreichen – die Bestellhäufigkeit steigt direkt an dieser Schwelle deutlich an (Sheet `Versandschwelle`, Aufgabe 2.6). Empfehlung: den Schwellenwert aktiv im Checkout kommunizieren (z. B. „Nur noch $X bis zum kostenlosen Versand!"), um den durchschnittlichen Bestellwert gezielt weiter zu steigern.
 
+### Empfehlung 8: Regionales Wachstum gezielt fördern
+
+Das Umsatzwachstum verteilt sich regional sehr ungleich: Nordamerika und Südostasien wachsen deutlich stärker als der stagnierende Nahe Osten (siehe Frage 2, Sheet `Regionen`). Dieses Muster bestätigt sich auch bei den wertvollsten Kunden – Middle East und Latin America sind unter den Top-5%-Kunden klar unterrepräsentiert (13 bzw. 15 von 150, siehe Frage 9). Empfehlung: Ressourcen (Marketing, Lager, Partnerschaften) gezielt auf die wachstumsstärksten Regionen Nordamerika und Südostasien ausrichten. Für den Nahen Osten und Lateinamerika empfiehlt sich zunächst eine vertiefende Analyse, ob die Unterrepräsentation eine ungenutzte Marktchance oder ein strukturelles Problem widerspiegelt, bevor Budget dorthin verschoben oder von dort abgezogen wird.
+
 ---
 
 ### Wichtigste Risiken und offene Fragen
@@ -327,5 +331,5 @@ Kunden passen ihr Kaufverhalten nachweislich an, um die Schwelle für kostenlose
 - **Organic ist nicht beliebig skalierbar.** Der Kanal hat kein direkt steuerbares Budget – eine reine Umschichtung dorthin stößt an natürliche Grenzen.
 - **Reichweitenrisiko bei Kürzung von Paid Search/Social Ads.** Beide Kanäle liefern trotz niedriger Effizienz einen großen Teil der Neukunden-Reichweite; zu starke Kürzungen könnten das Neukundenwachstum bremsen.
 - **Stichprobengröße im A/B-Test für Neukunden ist klein** (520 von 7,355 Bestellungen im Experiment, ca. 7%). Vor einem vollständigen Rollout von Variante B für dieses Segment empfiehlt sich ein längerer bzw. breiterer Test zur Absicherung des Effekts.
-- **Middle East und Latin America sind unter den Top-5%-Kunden deutlich unterrepräsentiert.** Unklar, ob dies eine Marktchance, ein Kanal-Mix-Problem oder ein strukturelles Merkmal dieser Regionen ist – weitere Analyse empfohlen, bevor Budget dorthin verschoben oder von dort abgezogen wird.
+- **Middle East und Latin America sind unter den Top-5%-Kunden deutlich unterrepräsentiert.** Unklar, ob dies eine Marktchance, ein Kanal-Mix-Problem oder ein strukturelles Merkmal dieser Regionen ist – siehe Empfehlung 8 für die vorgeschlagene weitere Analyse.
 - **Electronics bleibt trotz geringer Marge umsatzstärkste Kategorie.** Eine Reduzierung des Fokus birgt kurzfristiges Umsatzrisiko; Empfehlung 3 zielt auf Optimierung (Retourenursachen, Produktmix), nicht auf Rückzug aus der Kategorie.
