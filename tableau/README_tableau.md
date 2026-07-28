@@ -2,6 +2,7 @@
 
 **Link zum Tableau-Workbook:** [ShopSphere_Analyse (CEO_Story)](https://public.tableau.com/views/ShopSphere_Analyse/CEO_Story)
 **Link zum Tableau Public Profil:** [public.tableau.com/app/profile/yuliia.safonova](https://public.tableau.com/app/profile/yuliia.safonova)
+**Lokales Workbook:** Das vollständige Packaged Workbook (`.twbx`, inklusive Daten) liegt zusätzlich in diesem Ordner unter [`ShopSphere_Analyse.twbx`](./ShopSphere_Analyse.twbx) – kann direkt in Tableau Desktop oder Tableau Reader geöffnet werden, unabhängig von einer Internetverbindung.
 
 Dieses Dokument beschreibt alle Tableau-Sheets, Dashboards und die Story. Statische Screenshots aller Visualisierungen liegen als Offline-Referenz im Unterordner [`visualisierungen/`](./visualisierungen/).
 
