@@ -125,7 +125,7 @@ Die vollständige, bilinguale (DE/UA) Projektpräsentation – inklusive des zwe
 
 **Yuliia Safonova**
 Data Analyst | Career Changer aus Sales & Retail Management
-Tableau-Workbook: [ShopSphere_Analyse](https://public.tableau.com/views/ShopSphere_Analyse/CEO_Story) · Portfolio: [Tableau Public Profil](https://public.tableau.com/app/profile/yuliia.safonova) · [Projektpräsentation](https://yuliia-safonova.github.io/shopsphere_analytics_project/presentation/)
+Portfolio: [Tableau Public Profil](https://public.tableau.com/app/profile/yuliia.safonova)
 
 ---
 
