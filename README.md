@@ -73,7 +73,8 @@ shopsphere_analytics_project/
 │
 ├── tableau/
 │   ├── visualisierungen/          ← Screenshots aller Tableau-Grafiken, Dashboards & Charts
-│   └── README_tableau.md          ← Link zum Workbook, alle Sheets, Dashboards, Story-Aufbau
+│   ├── README_tableau.md          ← Link zum Workbook, alle Sheets, Dashboards, Story-Aufbau
+│   └── ShopSphere_Analyse.twbx    ← Tableau-Workbook (Packaged Workbook, inkl. Daten) zum lokalen Öffnen in Tableau
 │
 ├── README.md                      ← diese Datei
 └── aufgabe.md                     ← vollständige Aufgabenstellung
@@ -114,7 +115,7 @@ Die vollständige Analyse liefert datengestützte Antworten auf alle Ausgangsfra
 
 Alle Antworten und die 8 zentralen Handlungsempfehlungen für die CEO: [`bericht/bericht.md`](./bericht/bericht.md).
 
-Interaktives Tableau-Workbook mit allen Charts, Dashboards und der CEO-Story: [ShopSphere_Analyse auf Tableau Public](https://public.tableau.com/views/ShopSphere_Analyse/CEO_Story).
+Interaktives Tableau-Workbook mit allen Charts, Dashboards und der CEO-Story: [ShopSphere_Analyse auf Tableau Public](https://public.tableau.com/views/ShopSphere_Analyse/CEO_Story). Das vollständige Packaged Workbook (`.twbx`, inklusive Daten) liegt zusätzlich lokal unter [`tableau/ShopSphere_Analyse.twbx`](./tableau/ShopSphere_Analyse.twbx) – kann direkt in Tableau Desktop oder Tableau Reader geöffnet werden.
 
 Die vollständige, bilinguale (DE/UA) Projektpräsentation – inklusive des zweiten Abschlussprojekts (CoffeeTime-Umsatzprognose mit linearer Regression) – ist hier verfügbar: **[Live-Demo](https://yuliia-safonova.github.io/shopsphere_analytics_project/presentation/)**.
 
