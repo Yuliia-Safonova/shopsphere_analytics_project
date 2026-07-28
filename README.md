@@ -2,7 +2,7 @@
 
 Abschlussprojekt im Bereich Data Analytics: End-to-End-Analyse eines fiktiven, globalen E-Commerce-Marktplatzes – von der SQL-Datenaufbereitung über Tableau-Visualisierungen bis hin zu strategischen Business-Empfehlungen und statistischer Auswertung eines A/B-Experiments.
 
-**🔗 [Zur vollständigen Projektpräsentation (Kapitel 1 & 2)](https://yuliia-safonova.github.io/shopsphere_analytics_project/landing-page/)**
+**🔗 [Zur vollständigen Projektpräsentation (Kapitel 1 & 2)](https://yuliia-safonova.github.io/shopsphere_analytics_project/presentation/)**
 
 ---
 
@@ -64,7 +64,7 @@ shopsphere_analytics_project/
 │   ├── shopsphere_orders.csv
 │   └── shopsphere_products.csv
 │
-├── landing-page/
+├── presentation/
 │   └── index.html                 ← Bilinguale (DE/UA) Projektpräsentation: Kapitel 1 (ShopSphere) & Kapitel 2 (CoffeeTime-Prognose) als eine Geschichte
 │
 ├── sql/
@@ -116,7 +116,7 @@ Alle Antworten und die 8 zentralen Handlungsempfehlungen für die CEO: [`bericht
 
 Interaktives Tableau-Workbook mit allen Charts, Dashboards und der CEO-Story: [ShopSphere_Analyse auf Tableau Public](https://public.tableau.com/views/ShopSphere_Analyse/CEO_Story).
 
-Die vollständige, bilinguale (DE/UA) Projektpräsentation – inklusive des zweiten Abschlussprojekts (CoffeeTime-Umsatzprognose mit linearer Regression) – ist hier verfügbar: **[Live-Demo](https://yuliia-safonova.github.io/shopsphere_analytics_project/landing-page/)**.
+Die vollständige, bilinguale (DE/UA) Projektpräsentation – inklusive des zweiten Abschlussprojekts (CoffeeTime-Umsatzprognose mit linearer Regression) – ist hier verfügbar: **[Live-Demo](https://yuliia-safonova.github.io/shopsphere_analytics_project/presentation/)**.
 
 ---
 
@@ -124,7 +124,7 @@ Die vollständige, bilinguale (DE/UA) Projektpräsentation – inklusive des zwe
 
 **Yuliia Safonova**
 Data Analyst | Career Changer aus Sales & Retail Management
-Tableau-Workbook: [ShopSphere_Analyse](https://public.tableau.com/views/ShopSphere_Analyse/CEO_Story) · Portfolio: [Tableau Public Profil](https://public.tableau.com/app/profile/yuliia.safonova) · [Projektpräsentation](https://yuliia-safonova.github.io/shopsphere_analytics_project/landing-page/)
+Tableau-Workbook: [ShopSphere_Analyse](https://public.tableau.com/views/ShopSphere_Analyse/CEO_Story) · Portfolio: [Tableau Public Profil](https://public.tableau.com/app/profile/yuliia.safonova) · [Projektpräsentation](https://yuliia-safonova.github.io/shopsphere_analytics_project/presentation/)
 
 ---
 
