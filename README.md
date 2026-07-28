@@ -95,8 +95,8 @@ shopsphere_analytics_project/
 
 | Block | Status |
 |---|---|
-| Block 1 – SQL: Datenaufbereitung | ✅ abgeschlossen |
-| Block 2 – Visualisierungen in Tableau | ✅ abgeschlossen (6 Charts, siehe `tableau/README_tableau.md`) |
+| Block 1 – SQL: Datenaufbereitung | ✅ abgeschlossen (siehe [`sql/abfragen.sql`](./sql/abfragen.sql)) |
+| Block 2 – Visualisierungen in Tableau | ✅ abgeschlossen (6 Charts, siehe [`tableau/README_tableau.md`](./tableau/README_tableau.md)) |
 | Block 3 – Interaktive Dashboards + Story für die CEO | ✅ abgeschlossen (3 Dashboards + Story `CEO_Story`, Antworten siehe `bericht/bericht.md`) |
 | Block 4 – Strategische Geschäftsfälle | ✅ abgeschlossen (siehe `bericht/bericht.md`) |
 | Block 5 – A/B-Experiment | ✅ abgeschlossen (siehe `bericht/bericht.md`) |
